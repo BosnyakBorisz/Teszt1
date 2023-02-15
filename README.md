@@ -1,2 +1,2 @@
 # Teszt1
-#git hub szerver
+#github szerver
