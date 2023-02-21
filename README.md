@@ -1,3 +1,3 @@
 # Teszt1
-# github szerve
+# github szerver
 # gyak
